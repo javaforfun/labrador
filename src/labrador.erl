@@ -1,7 +1,7 @@
 %%%----------------------------------------------------------------------
 %%% File      : labrador.erl
 %%% Author    : SMELLS LIKE BEAM SPIRIT
-%%% Modifier  : ryan.ruan@ericsson.com
+%%% Modifier  : librecloud@gmail.com
 %%% Purpose   : Bootstrap module.
 %%% Created   : Apr 3, 2013
 %%%----------------------------------------------------------------------
